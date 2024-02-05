@@ -1,4 +1,3 @@
-import java.util.Scanner;
 class rectangle{
 	double l,b;
 	
@@ -12,10 +11,8 @@ class rectangle{
 	}
 	
 	public static void main(String[] args){					
-	Scanner scanner=new Scanner(System.in);
 	rectangle r=new rectangle();
 	r.setData(12.38,13);
 	System.out.println("Area of the rectangle is:"+r.getArea());
-	scanner.close();
 	}
 }
