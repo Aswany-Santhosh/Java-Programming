@@ -6,7 +6,7 @@ public class CharSort{
 	Scanner scanner=new Scanner(System.in);
 	System.out.println("Enter the Strings:");
 	String str=scanner.nextLine();
-	
+	str=str.toLowerCase();
 	char[] chars=str.toCharArray();
 	
 	Arrays.sort(chars);
