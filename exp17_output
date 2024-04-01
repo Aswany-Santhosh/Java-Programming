@@ -1,0 +1,56 @@
+aswanysanthosh@ceccc2:~$ java Exp17
+Enter the number of teachers: 2
+Enter the details of the teacher1:
+Employee ID:
+E1
+Employee Name:
+Aswany
+Salary:
+50000
+Address:
+Kalathoor House Kuriannoor P.O Thiruvalla
+Department:
+Computer Science
+Number of subjects taught:
+2
+Subject1:
+ADS
+Subject2:
+ASE
+Enter the details of the teacher2:
+Employee ID:
+E2
+Employee Name:
+Ajo
+Salary:
+65000
+Address:
+Pooveil,Ponmala P.O Thadiyoor
+Department:
+Computer Engineering
+Number of subjects taught:
+2
+Subject1:
+DBMS
+Subject2:
+Java
+
+Details of all teachers:
+Employee ID:
+Employee Name:Aswany
+Salary:50000.0
+Address:Kalathoor House Kuriannoor P.O Thiruvalla
+Department:Computer Science
+Subjects Taught:
+ - ADS
+ - ASE
+
+Employee ID:E2
+Employee Name:Ajo
+Salary:65000.0
+Address:Pooveil,Ponmala P.O Thadiyoor
+Department:Computer Engineering
+Subjects Taught:
+ - DBMS
+ - Java
+
